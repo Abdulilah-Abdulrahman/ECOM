@@ -23,7 +23,7 @@ const App = () => {
     
     <div>
   
-      <h1>Pos</h1>
+      <h1>HELLO</h1>
       <ul>
         {posts.map((post) => (
           <li key={post.id}>{post.title}</li>
@@ -32,5 +32,8 @@ const App = () => {
     </div>
   );
 }
+
+
+
 
 export default App
