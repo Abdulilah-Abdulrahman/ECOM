@@ -5,6 +5,7 @@ const App = () => {
    <>  
    <h1>hello abd</h1>
    <h2>abdulilah</h2>
+   <p>title</p>
 
    </>
   )
